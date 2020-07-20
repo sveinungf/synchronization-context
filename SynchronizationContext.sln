@@ -29,7 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.NetCore", "Console.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.NetFramework", "Console.NetFramework\Console.NetFramework.csproj", "{06333EC0-B586-44D2-9C39-9F1B03182CDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest", "xUnitTest\xUnitTest.csproj", "{A7511F4F-497D-4D16-944E-A7C6C618854C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTest.NetCore", "xUnitTest.NetCore\xUnitTest.NetCore.csproj", "{A7511F4F-497D-4D16-944E-A7C6C618854C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsTest.NetCore", "MsTest.NetCore\MsTest.NetCore.csproj", "{62D47313-DC94-479C-9FF3-B58A6B2D07F3}"
 EndProject
