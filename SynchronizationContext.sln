@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NunitTest.NetCore", "NunitT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.NetCore", "Wpf.NetCore\Wpf.NetCore.csproj", "{DCB4D225-0BC6-4F4B-AD96-EA9D90ADFD47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.NetFramework", "Wpf.NetFramework\Wpf.NetFramework.csproj", "{8A1BDB12-DFDD-4125-968C-05B7F4CE348A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{DCB4D225-0BC6-4F4B-AD96-EA9D90ADFD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB4D225-0BC6-4F4B-AD96-EA9D90ADFD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB4D225-0BC6-4F4B-AD96-EA9D90ADFD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1BDB12-DFDD-4125-968C-05B7F4CE348A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1BDB12-DFDD-4125-968C-05B7F4CE348A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1BDB12-DFDD-4125-968C-05B7F4CE348A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1BDB12-DFDD-4125-968C-05B7F4CE348A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
