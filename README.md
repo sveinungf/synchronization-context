@@ -17,3 +17,4 @@ In that case, calling `ConfigureAwait(false)` will have no effect.
 | Azure Functions v2                | ✅                                         | ✅                                    |
 | Azure Functions v3                | ✅                                         | ✅                                    |
 | Blazor Server                     | ❌                                         | ✅                                    |
+| Blazor WebAssembly                | ✅                                         | ✅                                    |
