@@ -22,4 +22,5 @@ In that case, calling `ConfigureAwait(false)` will have no effect.
 | Console App (.NET Framework)      | ✅                                         | ✅                                    |
 | MSTest (.NET Core)                | ✅                                         | ✅                                    |
 | MSTest (.NET Framework)           | ✅                                         | ✅                                    |
+| NUnit (.NET Core)                 | ✅                                         | ✅                                    |
 | xUnit                             | ❌                                         | ✅                                    |
