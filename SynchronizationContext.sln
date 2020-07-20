@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureFunctions.v3", "AzureF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blazor.WebAssembly", "Blazor.WebAssembly\Blazor.WebAssembly.csproj", "{225EB8CC-8963-476D-83CF-057D89F4F9EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.NetCore", "Console.NetCore\Console.NetCore.csproj", "{30A95093-8679-441D-A1A4-263109B536D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.NetFramework", "Console.NetFramework\Console.NetFramework.csproj", "{06333EC0-B586-44D2-9C39-9F1B03182CDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{225EB8CC-8963-476D-83CF-057D89F4F9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{225EB8CC-8963-476D-83CF-057D89F4F9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{225EB8CC-8963-476D-83CF-057D89F4F9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30A95093-8679-441D-A1A4-263109B536D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A95093-8679-441D-A1A4-263109B536D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A95093-8679-441D-A1A4-263109B536D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A95093-8679-441D-A1A4-263109B536D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06333EC0-B586-44D2-9C39-9F1B03182CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06333EC0-B586-44D2-9C39-9F1B03182CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06333EC0-B586-44D2-9C39-9F1B03182CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06333EC0-B586-44D2-9C39-9F1B03182CDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
