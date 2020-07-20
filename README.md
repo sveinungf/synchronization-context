@@ -2,9 +2,7 @@
 
 AKA when should I use `ConfigureAwait(false)` when writing async code?
 
-In general, use `ConfigureAwait(false)` unless you know that you need to capture the current context.
-General-purpose library code typically do not need to return back to the original context.
-UI applications typically needs to be in the correct context to make changes to UI elements.
+In general, use `ConfigureAwait(false)` unless you know that you need to capture the current context. General-purpose library code typically do not need to return back to the original context. UI applications typically needs to be in the correct context to make changes to UI elements. See [here](https://devblogs.microsoft.com/dotnet/configureawait-faq/) for more details.
 
 However, not all environments publishes a custom `SynchronizationContext` or a custom `TaskScheduler`.
 In that case, calling `ConfigureAwait(false)` will have no effect.
