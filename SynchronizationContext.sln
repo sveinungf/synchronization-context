@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf.NetFramework", "Wpf.Net
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.NetCore", "WinForms.NetCore\WinForms.NetCore.csproj", "{87C9BBEF-6587-4B8C-98BD-E9FF131E8979}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.NetFramework", "WinForms.NetFramework\WinForms.NetFramework.csproj", "{5072748D-18B0-496D-94CE-1E7B1AD67058}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{87C9BBEF-6587-4B8C-98BD-E9FF131E8979}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C9BBEF-6587-4B8C-98BD-E9FF131E8979}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C9BBEF-6587-4B8C-98BD-E9FF131E8979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5072748D-18B0-496D-94CE-1E7B1AD67058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5072748D-18B0-496D-94CE-1E7B1AD67058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5072748D-18B0-496D-94CE-1E7B1AD67058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5072748D-18B0-496D-94CE-1E7B1AD67058}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
