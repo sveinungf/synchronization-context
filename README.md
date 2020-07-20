@@ -20,3 +20,4 @@ In that case, calling `ConfigureAwait(false)` will have no effect.
 | Blazor WebAssembly                | ✅                                         | ✅                                    |
 | Console App (.NET Core)           | ✅                                         | ✅                                    |
 | Console App (.NET Framework)      | ✅                                         | ✅                                    |
+| xUnit                             | ❌                                         | ✅                                    |
