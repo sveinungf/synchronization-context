@@ -14,4 +14,6 @@ In that case, calling `ConfigureAwait(false)` will have no effect.
 | ASP.NET Core (.NET Framework)     | ✅                                         | ✅                                    |
 | ASP.NET Web Forms                 | ❌                                         | ✅                                    |
 | Azure Functions v1                | ✅                                         | ✅                                    |
+| Azure Functions v2                | ✅                                         | ✅                                    |
+| Azure Functions v3                | ✅                                         | ✅                                    |
 | Blazor Server                     | ❌                                         | ✅                                    |
