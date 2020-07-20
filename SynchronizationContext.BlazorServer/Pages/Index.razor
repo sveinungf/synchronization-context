@@ -1,0 +1,4 @@
+﻿@page "/"
+@("SynchronizationContext: " +
+  (System.Threading.SynchronizationContext.Current?.ToString() ?? "null") +
+  " TaskScheduler: " + TaskScheduler.Current)
