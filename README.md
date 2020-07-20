@@ -23,4 +23,5 @@ In that case, calling `ConfigureAwait(false)` will have no effect.
 | MSTest (.NET Core)                | ✅                                         | ✅                                    |
 | MSTest (.NET Framework)           | ✅                                         | ✅                                    |
 | NUnit (.NET Core)                 | ✅                                         | ✅                                    |
+| WPF (.NET Core)                   | ❌                                         | ✅                                    |
 | xUnit (.NET Core)                 | ❌                                         | ✅                                    |
