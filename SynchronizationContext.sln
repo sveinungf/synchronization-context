@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.NetFramework", "Wi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Mvc", "AspNet.Mvc\AspNet.Mvc.csproj", "{71A5888C-7E7C-4C3A-AE00-94A677D23326}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDurableFunctions.v2", "AzureDurableFunctions.v2\AzureDurableFunctions.v2.csproj", "{9526736A-C910-4844-A511-7146C3A47176}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{71A5888C-7E7C-4C3A-AE00-94A677D23326}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A5888C-7E7C-4C3A-AE00-94A677D23326}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A5888C-7E7C-4C3A-AE00-94A677D23326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9526736A-C910-4844-A511-7146C3A47176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9526736A-C910-4844-A511-7146C3A47176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9526736A-C910-4844-A511-7146C3A47176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9526736A-C910-4844-A511-7146C3A47176}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

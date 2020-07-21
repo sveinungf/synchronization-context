@@ -19,10 +19,10 @@ Note that even though a custom context is not set by default, it is still possib
 | ASP.NET Core (.NET Framework)                      | :white_check_mark:                         | :white_check_mark:                     |
 | ASP.NET MVC                                        | :x:                                        | :white_check_mark:                     |
 | ASP.NET Web Forms                                  | :x:                                        | :white_check_mark:                     |
+| Azure Durable Functions v2 Orchestrators           | :x:                                        | :x:                                    |
 | Azure Functions v1                                 | :white_check_mark:                         | :white_check_mark:                     |
 | Azure Functions v2                                 | :white_check_mark:                         | :white_check_mark:                     |
 | Azure Functions v3                                 | :white_check_mark:                         | :white_check_mark:                     |
-| Azure Functions v3 Durable Functions Orchestrators | :x:                                        | :x:                                    |
 | Blazor Server                                      | :x:                                        | :white_check_mark:                     |
 | Blazor WebAssembly                                 | :white_check_mark:                         | :white_check_mark:                     |
 | Console App (.NET Core)                            | :white_check_mark:                         | :white_check_mark:                     |

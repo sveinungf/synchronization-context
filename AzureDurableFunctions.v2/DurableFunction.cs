@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace AzureFunctions.v3
+namespace AzureDurableFunctions.v2
 {
     public static class DurableFunction
     {
