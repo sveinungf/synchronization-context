@@ -13,24 +13,25 @@ For those environments where both columns have a :white_check_mark:, you might c
 Note that even though a custom context is not set by default, it is still possible for library code to override this.
 
 
-| Environment                       | `SynchronizationContext.Current` is `null` | `TaskScheduler.Current` is Thread Pool |
-| --------------------------------- | :----------------------------------------: | :------------------------------------: |
-| ASP.NET Core (.NET Core)          | :white_check_mark:                         | :white_check_mark:                     |
-| ASP.NET Core (.NET Framework)     | :white_check_mark:                         | :white_check_mark:                     |
-| ASP.NET MVC                       | :x:                                        | :white_check_mark:                     |
-| ASP.NET Web Forms                 | :x:                                        | :white_check_mark:                     |
-| Azure Functions v1                | :white_check_mark:                         | :white_check_mark:                     |
-| Azure Functions v2                | :white_check_mark:                         | :white_check_mark:                     |
-| Azure Functions v3                | :white_check_mark:                         | :white_check_mark:                     |
-| Blazor Server                     | :x:                                        | :white_check_mark:                     |
-| Blazor WebAssembly                | :white_check_mark:                         | :white_check_mark:                     |
-| Console App (.NET Core)           | :white_check_mark:                         | :white_check_mark:                     |
-| Console App (.NET Framework)      | :white_check_mark:                         | :white_check_mark:                     |
-| MSTest (.NET Core)                | :white_check_mark:                         | :white_check_mark:                     |
-| MSTest (.NET Framework)           | :white_check_mark:                         | :white_check_mark:                     |
-| NUnit (.NET Core)                 | :white_check_mark:                         | :white_check_mark:                     |
-| Windows Forms (.NET Core)         | :x:                                        | :white_check_mark:                     |
-| Windows Forms (.NET Framework)    | :x:                                        | :white_check_mark:                     |
-| WPF (.NET Core)                   | :x:                                        | :white_check_mark:                     |
-| WPF (.NET Framework)              | :x:                                        | :white_check_mark:                     |
-| xUnit (.NET Core)                 | :x:                                        | :white_check_mark:                     |
+| Environment                                        | `SynchronizationContext.Current` is `null` | `TaskScheduler.Current` is Thread Pool |
+| -------------------------------------------------- | :----------------------------------------: | :------------------------------------: |
+| ASP.NET Core (.NET Core)                           | :white_check_mark:                         | :white_check_mark:                     |
+| ASP.NET Core (.NET Framework)                      | :white_check_mark:                         | :white_check_mark:                     |
+| ASP.NET MVC                                        | :x:                                        | :white_check_mark:                     |
+| ASP.NET Web Forms                                  | :x:                                        | :white_check_mark:                     |
+| Azure Functions v1                                 | :white_check_mark:                         | :white_check_mark:                     |
+| Azure Functions v2                                 | :white_check_mark:                         | :white_check_mark:                     |
+| Azure Functions v3                                 | :white_check_mark:                         | :white_check_mark:                     |
+| Azure Functions v3 Durable Functions Orchestrators | :x:                                        | :x:                                    |
+| Blazor Server                                      | :x:                                        | :white_check_mark:                     |
+| Blazor WebAssembly                                 | :white_check_mark:                         | :white_check_mark:                     |
+| Console App (.NET Core)                            | :white_check_mark:                         | :white_check_mark:                     |
+| Console App (.NET Framework)                       | :white_check_mark:                         | :white_check_mark:                     |
+| MSTest (.NET Core)                                 | :white_check_mark:                         | :white_check_mark:                     |
+| MSTest (.NET Framework)                            | :white_check_mark:                         | :white_check_mark:                     |
+| NUnit (.NET Core)                                  | :white_check_mark:                         | :white_check_mark:                     |
+| Windows Forms (.NET Core)                          | :x:                                        | :white_check_mark:                     |
+| Windows Forms (.NET Framework)                     | :x:                                        | :white_check_mark:                     |
+| WPF (.NET Core)                                    | :x:                                        | :white_check_mark:                     |
+| WPF (.NET Framework)                               | :x:                                        | :white_check_mark:                     |
+| xUnit (.NET Core)                                  | :x:                                        | :white_check_mark:                     |
