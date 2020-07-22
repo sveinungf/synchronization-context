@@ -32,6 +32,7 @@ Note that even though a custom context is not set by default, it is still possib
 | MSTest (.NET Core)                                 | :white_check_mark:                         | :white_check_mark:                     |
 | MSTest (.NET Framework)                            | :white_check_mark:                         | :white_check_mark:                     |
 | NUnit (.NET Core)                                  | :white_check_mark:                         | :white_check_mark:                     |
+| WCF Service                                        | :white_check_mark:                         | :white_check_mark:                     |
 | Windows Forms (.NET Core)                          | :x:                                        | :white_check_mark:                     |
 | Windows Forms (.NET Framework)                     | :x:                                        | :white_check_mark:                     |
 | WPF (.NET Core)                                    | :x:                                        | :white_check_mark:                     |
