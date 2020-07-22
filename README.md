@@ -17,6 +17,7 @@ Note that even though a custom context is not set by default, it is still possib
 | -------------------------------------------------- | :----------------------------------------: | :------------------------------------: |
 | ASP.NET Core (.NET Core)                           | :white_check_mark:                         | :white_check_mark:                     |
 | ASP.NET Core (.NET Framework)                      | :white_check_mark:                         | :white_check_mark:                     |
+| ASP.NET Core gRPC Service                          | :white_check_mark:                         | :white_check_mark:                     |
 | ASP.NET MVC                                        | :x:                                        | :white_check_mark:                     |
 | ASP.NET Web Forms                                  | :x:                                        | :white_check_mark:                     |
 | Azure Durable Functions v2 Orchestrators           | :x:                                        | :x:                                    |

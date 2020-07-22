@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "Grpc.Service";
+
+package synccontext;
+
+service SyncContextService {
+	rpc CheckSyncContext (CheckSyncContextRequest) returns (CheckSyncContextReply);
+}
+
+message CheckSyncContextRequest {
+}
+
+message CheckSyncContextReply {
+	string message = 1;
+}

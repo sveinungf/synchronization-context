@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.Mvc", "AspNet.Mvc\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDurableFunctions.v2", "AzureDurableFunctions.v2\AzureDurableFunctions.v2.csproj", "{9526736A-C910-4844-A511-7146C3A47176}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.Service", "Grpc.Service\Grpc.Service.csproj", "{0375DCAB-CBB0-416B-A82B-769B4354F2B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grpc.Client", "Grpc.Client\Grpc.Client.csproj", "{23AE5C7E-4C0B-4034-9CF3-696E4CA266E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +139,14 @@ Global
 		{9526736A-C910-4844-A511-7146C3A47176}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9526736A-C910-4844-A511-7146C3A47176}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9526736A-C910-4844-A511-7146C3A47176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0375DCAB-CBB0-416B-A82B-769B4354F2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0375DCAB-CBB0-416B-A82B-769B4354F2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0375DCAB-CBB0-416B-A82B-769B4354F2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0375DCAB-CBB0-416B-A82B-769B4354F2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AE5C7E-4C0B-4034-9CF3-696E4CA266E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AE5C7E-4C0B-4034-9CF3-696E4CA266E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AE5C7E-4C0B-4034-9CF3-696E4CA266E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AE5C7E-4C0B-4034-9CF3-696E4CA266E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
