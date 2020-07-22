@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebApi", "AspNet.Web
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcf", "Wcf\Wcf.csproj", "{6D527C79-E085-41CC-B746-5A6DF2B1C174}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms.Android", "XamarinForms\XamarinForms.Android\XamarinForms.Android.csproj", "{DA5D8740-3A59-40AF-9FE7-4615B52AF329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinForms", "XamarinForms\XamarinForms\XamarinForms.csproj", "{17049072-8BA7-4CFC-A18A-51257A962C8F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,16 @@ Global
 		{6D527C79-E085-41CC-B746-5A6DF2B1C174}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D527C79-E085-41CC-B746-5A6DF2B1C174}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D527C79-E085-41CC-B746-5A6DF2B1C174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5D8740-3A59-40AF-9FE7-4615B52AF329}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{17049072-8BA7-4CFC-A18A-51257A962C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17049072-8BA7-4CFC-A18A-51257A962C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17049072-8BA7-4CFC-A18A-51257A962C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17049072-8BA7-4CFC-A18A-51257A962C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

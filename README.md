@@ -37,4 +37,5 @@ Note that even though a custom context is not set by default, it is still possib
 | Windows Forms (.NET Framework)                     | :x:                                        | :white_check_mark:                     |
 | WPF (.NET Core)                                    | :x:                                        | :white_check_mark:                     |
 | WPF (.NET Framework)                               | :x:                                        | :white_check_mark:                     |
+| Xamarin Forms (Android)                            | :x:                                        | :white_check_mark:                     |
 | xUnit (.NET Core)                                  | :x:                                        | :white_check_mark:                     |
